@@ -1,123 +1,151 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "titulo": "Joselito",
+      "link": "https://www.youtube.com/watch?v=mxFtJIFMhGE",
+      "cor": "#6060C7",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Joselito : O homem que nao sabe brincar",
+        "url": "https://www.youtube.com/watch?v=mxFtJIFMhGE"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Padre Quemedo e o Filho do Capeta",
+          "url": "https://www.youtube.com/watch?v=Qy0KqEs2TwY"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Pedreiro - Popretário, isso é Viga! | Joselito",
+          "url": "https://www.youtube.com/watch?v=mxFtJIFMhGE"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Casamento | Joselito",
+          "url": "https://www.youtube.com/watch?v=sL3RllRwegw"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Cinema | Joselito",
+          "url": "https://www.youtube.com/watch?v=v3RO0rEJLLw"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Funeral | Joselito",
+          "url": "https://www.youtube.com/watch?v=P0Ktur3LzXM"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Dogão do Joselito | Joselito",
+          "url": "https://www.youtube.com/watch?v=3lu6we3A2Zw"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Brasi x Argentina | Joselito",
+          "url": "https://www.youtube.com/watch?v=_8Lr8wFVPCk"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
-      ]
-    },
-    {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "O homem que não sabe brincar | Joselito",
+          "url": "https://www.youtube.com/watch?v=Htz3kxhbYXw"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "titulo": "Massacration",
+      "cor": "#6060C7",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Maior banda de heavy metal de todos os tempos da história",
+        "url": "http://massacration.com.br/site/"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Metal is the Law | Massacration",
+          "url": "https://www.youtube.com/watch?v=TcBYBukjkBY"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Evil Papagali | Massacration ",
+          "url": "https://www.youtube.com/watch?v=nYc09Xqy3hE"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Metal Galera | Massacration",
+          "url": "https://www.youtube.com/watch?v=aAWE5HNK05s&list=RDTcBYBukjkBY&index=2"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "The Mummy | Massacration",
+          "url": "https://www.youtube.com/watch?v=xeyqateYZ3s"
+        },
+        {
+          "titulo": "Motormetal | Massacration",
+          "url": "https://www.youtube.com/watch?v=FysydtRLsyQ"
+        },
+        {
+          "titulo": "The Bull(live) | Massacration",
+          "url": "https://www.youtube.com/watch?v=udtrWKmhCvk"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Boça",
+      "cor": "#6060C7",
+      "link_extra": {
+        "text": "O malandrão de 32 anos(muuuito bem vividos) criado por sua avó",
+        "url": "https://www.youtube.com/watch?v=R1RoATfgnYs"
+      },
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Dicas de Vida | Boça",
+          "url": "https://www.youtube.com/watch?v=R1RoATfgnYs"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Chavequeiro | Boça",
+          "url": "https://www.youtube.com/watch?v=pW8kwl5rsRo"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Assalto | Boça",
+          "url": "https://www.youtube.com/watch?v=82Qq0pEYH24&t=107s"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Mister Lanches | Boça",
+          "url": "https://www.youtube.com/watch?v=TRxJKFlYjiQ"
+        },
+        {
+          "titulo": "Compras | Boça",
+          "url": "https://www.youtube.com/watch?v=ZxBGQ1B6zAc"
+        },
+        {
+          "titulo": "Boça Gump, o Contador de Histórias | Boça",
+          "url": "https://www.youtube.com/watch?v=gQHxR6Xjc6U"
+        },
+        {
+          "titulo": "Taxi | Boça",
+          "url": "https://www.youtube.com/watch?v=ZPd8AFs4LY4"
+        },
+        {
+          "titulo": "Aventura Gastronômica na China | Boça Espetacular",
+          "url": "https://www.youtube.com/watch?v=Y4cg2RzmgjA"
+        }
+      ]
+    },
+    {
+      "titulo": "Filmes - Tela Class",
+      "cor": "#6060C7",
+      "videos": [
+        {
+          "titulo": "Um Capeta em Forma de Guri",
+          "url": "https://www.youtube.com/watch?v=yYF7jDfkiWY"
+        },
+        {
+          "titulo": "As Tretas de Hong Kong",
+          "url": "https://www.youtube.com/watch?v=LvwoxHFimuI"
+        },
+        {
+          "titulo": "As Bombas de Hercules",
+          "url": "https://www.youtube.com/watch?v=BEwUqjikl3c"
+        },
+        {
+          "titulo": "Caçadores de Zica",
+          "url": "https://www.youtube.com/watch?v=VY2vci0r_9o"
+        },
+        {
+          "titulo": "Piratas do Carilha",
+          "url": "https://www.youtube.com/watch?v=qRCANrScT8g&t"
+        },
+        {
+          "titulo": "Boquinha de Cemitério",
+          "url": "https://www.youtube.com/watch?v=_T6-7zuyHvM"
         }
       ]
     },

@@ -13,7 +13,7 @@ function Home() {
       <BannerMain
         videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end"}
+        videoDescription={"Quemedo (interpretado por Bruno), insistentemente tenta desmascarar outro personagem (feito por Fausto) que se diz filho do capeta. Suas discussões sempre terminam em briga, e Padre Quemedo sempre leva a pior."}
       />
 
       <Carousel
